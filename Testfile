@@ -1,6 +1,6 @@
 
 
-Dieses ist eine Änderung im N++
+Dieses ist eine �nderung im N++
 
 1
 2
@@ -13,6 +13,7 @@ Dieses ist eine Änderung im N++
 
 9
 0
+<<<<<<< HEAD
 
 
 
@@ -26,3 +27,5 @@ Letzte Zeile
 2
 
 
+=======
+>>>>>>> parent of 938ffa3... Update Testfile
